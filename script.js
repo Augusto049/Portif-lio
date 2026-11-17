@@ -71,7 +71,6 @@ const CODE = [
   "<section class=\"hero\">Augusto</section>",
   "ScrollTrigger.create({ scrub: true });",
   "try { conn.commit(); } catch (e) { rollback(); }",
-  "const ambicioso = true;",
 ];
 const KW = /\b(const|let|await|async|public|private|final|class|extends|return|if|while|for|of|new|try|catch|export|function|void|SELECT|FROM|WHERE|INSERT|INTO|VALUES|UPDATE|SET|CREATE|TABLE|INTEGER|PRIMARY|KEY|true)\b/;
 
